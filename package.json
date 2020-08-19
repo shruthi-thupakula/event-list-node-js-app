@@ -1,0 +1,17 @@
+{
+  "name": "event-list-node-js-app",
+  "version": "1.0.0",
+  "description": "event-list-printer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shruthi Thupakula",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
